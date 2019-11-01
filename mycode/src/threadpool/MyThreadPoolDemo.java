@@ -2,6 +2,9 @@ package threadpool;
 
 import java.util.concurrent.*;
 
+/**
+ * 自定义线程池
+ */
 public class MyThreadPoolDemo {
 
 
